@@ -3,7 +3,7 @@
 <hr style="border-top: 2px solid black;">
 
 - 16y 📅
-- Estudando Desenvolvimento de Sistemas - 2/3 📝
+- Estudando Desenvolvimento de Sistemas - 3/3 📝
 - Desenvolvedor FullStack ✔
 
 
