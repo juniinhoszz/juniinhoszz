@@ -4,6 +4,7 @@
 
 - 18 anos 📅
 - Formado em Desenvolvimento de Sistemas 📝
+- Estudante de Gestão da Tecnologia da Informação
 - Desenvolvedor FullStack ✔
 
 
